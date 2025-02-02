@@ -47,4 +47,3 @@ After updating Proto rule in `proto`, we need to rebuild using the following com
 
 1. `pnpm install` in the root folder (for M1 Mac, use `npm_config_target_arch=x64 pnpm install` instead) 
 2. `pnpm run build` (`pnpm run build:win` if Window machine)
-# hybridvis
